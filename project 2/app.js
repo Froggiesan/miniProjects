@@ -1,3 +1,4 @@
+//Simple application to extract info from an array of dictionaries
 let data = [
     {
         name : 'Henrique',
