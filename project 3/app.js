@@ -11,3 +11,4 @@ circle.addEventListener('mouseleave', () => {
         circle.classList.remove('hover');
     }
 });
+
